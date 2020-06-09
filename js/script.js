@@ -6,7 +6,7 @@ $(document).ready(function() {
     });
 
     var typed = new Typed(".typed", {
-        strings: ["Software Engineer.", "Frontend Web Developer.", "JavaScript.", "React."],
+        strings: ["Salesforce Developer.","Certified Platform Developer I.", "Certified Salesforce Administrator", "Software Engineer."],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,

@@ -320,3 +320,26 @@ body {
 	background: url(../images/icons/menu.png);
 	background-size: 100%;
 }
+
+b{
+    color:#042C67;
+}
+
+.certificatesSection,
+.otherSkillsSection{
+    background-color: white;
+    color: black;
+}
+
+.certif{
+    width: 300px;
+    height: auto;
+    margin: 40px;
+    padding: 40px;
+}
+.thumbnail{
+    padding: 10px;
+}
+.thumbnailIcon{
+    width: 200px;
+}
